@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.358804" />
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae2cb1a3-f252-497a-acf2-6ac5a48aa246" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seznam.bin" beforeDir="false" afterPath="$PROJECT_DIR$/seznam.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/gui/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/gui/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/kolekce/Seznam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/kolekce/Seznam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/kolekce/SpojovySeznam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/kolekce/SpojovySeznam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/spravce/Ovladani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/spravce/Ovladani.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/spravce/SpravaProstredku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/spravce/SpravaProstredku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/gui/Controller.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OaVxjIoyawNHU1mjjMhTDiUskm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/armes/Documents/cz_dictonary/cz.dic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\target\classes\cz" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\target\classes" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\src\main\java\cz\upce\fei\boop\pujcovna\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshadasdsaasd\src\main\resources" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshadasdsaasd\src\main\resources\other" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\src\main\resources" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\target\classes" />
+      <recent name="C:\Users\armes\IdeaProjects\cviceni10-gui-ct14-armeshaasdfas\target" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaFXApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cz.upce.fei.boop.pujcovna.gui.AppGUI" />
+      <module name="PujcovnaGui" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\javafx-sdk-20\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cviceni10-gui-ct14-armeshaasdfas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cviceni10-gui-ct14-armeshaasdfas" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae2cb1a3-f252-497a-acf2-6ac5a48aa246" name="Changes" comment="" />
+      <created>1681798928687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681798928687</updated>
+      <workItem from="1681798931226" duration="2158000" />
+      <workItem from="1681801104244" duration="182000" />
+      <workItem from="1681801335942" duration="302000" />
+      <workItem from="1681802279646" duration="6004000" />
+      <workItem from="1681892301327" duration="3825000" />
+      <workItem from="1681900655369" duration="26000" />
+      <workItem from="1681900827029" duration="144000" />
+      <workItem from="1681922684153" duration="4200000" />
+      <workItem from="1681977263416" duration="45000" />
+      <workItem from="1681982393613" duration="709000" />
+      <workItem from="1681990935152" duration="461000" />
+      <workItem from="1682010570356" duration="25000" />
+      <workItem from="1682018302214" duration="5154000" />
+      <workItem from="1682027126606" duration="2498000" />
+      <workItem from="1682104752907" duration="310000" />
+      <workItem from="1682159681589" duration="14421000" />
+      <workItem from="1682197996860" duration="120000" />
+      <workItem from="1682248880993" duration="6088000" />
+      <workItem from="1682422486545" duration="1532000" />
+      <workItem from="1682512718332" duration="834000" />
+      <workItem from="1682597014776" duration="1950000" />
+      <workItem from="1682798122314" duration="3910000" />
+      <workItem from="1682867492518" duration="207000" />
+      <workItem from="1683291225797" duration="6847000" />
+      <workItem from="1683298148999" duration="1364000" />
+      <workItem from="1683302372960" duration="4482000" />
+      <workItem from="1683315358790" duration="6513000" />
+      <workItem from="1683372779446" duration="13532000" />
+      <workItem from="1683405783985" duration="5479000" />
+      <workItem from="1683837992494" duration="5778000" />
+      <workItem from="1683843913498" duration="34000" />
+      <workItem from="1683884636539" duration="3889000" />
+      <workItem from="1684321488970" duration="3069000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1681816817977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816817977</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1681816835517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816835517</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1681816875770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816875770</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1682022838700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682022838700</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <created>1682172631141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682172631141</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1682174262973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682174262973</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1682253477335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682253477335</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".">
+      <created>1682253500250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682253500250</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".">
+      <created>1682422887436</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682422887436</updated>
+    </task>
+    <task id="LOCAL-00010" summary=".">
+      <created>1682423069742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682423069742</updated>
+    </task>
+    <task id="LOCAL-00011" summary=".">
+      <created>1682598399994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682598399994</updated>
+    </task>
+    <task id="LOCAL-00012" summary=".">
+      <created>1682801987783</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682801987783</updated>
+    </task>
+    <task id="LOCAL-00013" summary=".">
+      <created>1683318607875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683318607875</updated>
+    </task>
+    <task id="LOCAL-00014" summary=".">
+      <created>1683321256689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683321256689</updated>
+    </task>
+    <task id="LOCAL-00015" summary=".">
+      <created>1683382857379</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683382857379</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".">
+      <created>1683382987143</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683382987143</updated>
+    </task>
+    <task id="LOCAL-00017" summary=".">
+      <created>1683383023221</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683383023221</updated>
+    </task>
+    <task id="LOCAL-00018" summary=".">
+      <created>1683387187535</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683387187535</updated>
+    </task>
+    <task id="LOCAL-00019" summary=".">
+      <created>1683843703035</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683843703035</updated>
+    </task>
+    <task id="LOCAL-00020" summary=".">
+      <created>1683888702352</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888702352</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar!/javafx/scene/control/ChoiceBox.class</url>
+          <line>510</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/upce/fei/boop/pujcovna/gui/Controller.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="cz.upce.fei.boop.pujcovna.kolekce.SpojovySeznam$Prvek" memberName="data" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="aktualni" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

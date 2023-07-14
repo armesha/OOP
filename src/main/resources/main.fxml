@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.upce.fei.boop.pujcovna.gui.Controller">
+    <children>
+        <HBox spacing="10.0" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="10" AnchorPane.rightAnchor="237.0" AnchorPane.topAnchor="10">
+            <children>
+                <VBox prefHeight="450.0" prefWidth="750.0" spacing="10.0" HBox.hgrow="ALWAYS">
+                    <children>
+                        <ListView fx:id="listView" prefWidth="704.0" style="-fx-font-size: 18px;" VBox.vgrow="ALWAYS">
+                            <VBox.margin>
+                                <Insets left="10.0" top="10.0" />
+                            </VBox.margin>
+                        </ListView>
+                        <HBox alignment="TOP_CENTER" prefWidth="694.0" spacing="10.0">
+                            <children>
+                                <Button fx:id="generovat" mnemonicParsing="false" onAction="#handleGenerateData" text="Generovat" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                                <ChoiceBox fx:id="novyNastroj" style="-fx-font-size: 14px;" />
+                                <Button fx:id="zalohovat" mnemonicParsing="false" onAction="#zalohovatSeznam" text="Zálohovat" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                                <Button fx:id="obnovit" mnemonicParsing="false" onAction="#obnovitSeznam" text="Obnovit" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                                <Button fx:id="doTxt" mnemonicParsing="false" onAction="#ulozSeznam" text="Uložit do txt" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                                <Button fx:id="zTxt" mnemonicParsing="false" onAction="#nactiSeznam" text="Načíst z txt" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                                <Button fx:id="pocet" mnemonicParsing="false" onAction="#dejPocet" text="Zobrazit počet" HBox.hgrow="ALWAYS">
+                                    <font>
+                                        <Font size="14.0" />
+                                    </font>
+                                </Button>
+                            </children>
+                            <VBox.margin>
+                                <Insets left="10.0" />
+                            </VBox.margin>
+                        </HBox>
+                    </children>
+                </VBox>
+                <VBox alignment="TOP_CENTER" spacing="10.0">
+                    <children>
+                        <Label text="Pocházení" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="nastavPrvni" mnemonicParsing="false" onAction="#prvni" text="Nastavit první" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="dalsi" mnemonicParsing="false" onAction="#dalsi" text="Přejít k dalšímu" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                  <Button fx:id="predchozi" mnemonicParsing="false" onAction="#predchozi" text="Predchozi">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Button>
+                        <Button fx:id="nastavPoslevni" mnemonicParsing="false" onAction="#posledni" text="Nastavit poslední" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Label text="Příkazy" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="18.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="vymazatSeznam" mnemonicParsing="false" onAction="#vymazatSeznam" text="Vymazat seznam" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="upravButton" mnemonicParsing="false" onAction="#handleUpravButton" text="Upravit aktuální" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="odebratAktualni" mnemonicParsing="false" onAction="#odeber" text="Odebrat aktuální" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="najitPodleId" mnemonicParsing="false" onAction="#najitId" text="Najít podle ID:" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="odebratPodleId" mnemonicParsing="false" onAction="#odebratId" text="Odebrat podle ID:" VBox.vgrow="ALWAYS">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                        <ChoiceBox fx:id="filtr" style="-fx-font-size: 14px;" />
+                    </children>
+                    <HBox.margin>
+                        <Insets right="10.0" top="10.0" />
+                    </HBox.margin>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+    <padding>
+        <Insets right="-200.0" />
+    </padding>
+</AnchorPane>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="160.0" prefWidth="300" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="25.0" layoutY="49.0" text="Název:" />
+        <TextField fx:id="nazevTextField" layoutX="86.0" layoutY="46.0" />
+        <Button fx:id="potvrditButton" layoutX="188.0" layoutY="121.0" text="Potvrdit" />
+      <Label layoutX="25.0" layoutY="87.0" text="Materiál:" />
+      <TextField fx:id="materialTextField" layoutX="86.0" layoutY="84.0" />
+      <Label layoutX="25.0" layoutY="18.0" text="Typ:" />
+      <Label layoutX="86.0" layoutY="14.0" prefHeight="25.0" prefWidth="149.0" text="Bicí nástroje" />
+    </children>
+</AnchorPane>

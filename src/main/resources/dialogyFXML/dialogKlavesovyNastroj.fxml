@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="160.0" prefWidth="300" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Button fx:id="potvrditButton" layoutX="206.0" layoutY="121.0" text="Potvrdit" />
+        <Label layoutX="18.0" layoutY="84.0" text="Počet kláves:" />
+      <Label layoutX="23.0" layoutY="50.0" text="Název:" />
+      <TextField fx:id="nazevTextField" layoutX="115.0" layoutY="46.0" />
+      <Label layoutX="30.0" layoutY="20.0" text="Typ:" />
+      <Label layoutX="115.0" layoutY="16.0" prefHeight="25.0" prefWidth="149.0" text="Klávesový nástroj" />
+      <TextField fx:id="pocetKlavesTextField" layoutX="115.0" layoutY="80.0" />
+    </children>
+</AnchorPane>
