@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Postup prací PujcovnaGUI
 
 1. Otevřte projekt v NetBeans a přejmenujte projekt tak, že místo koncovky 
@@ -24,3 +25,7 @@ Snímek s příkladem grafického uživatelského rozhraní:
 Vzorový diagram tříd aplikace PujcovnaGUI:
 ![Diagram tříd ](/other/U071overview.png)
 
+=======
+# OOP
+University project repository showcasing my Java skills, including core concepts, OOP, and frameworks. Demonstrates problem-solving abilities and coding style.
+>>>>>>> origin/main
